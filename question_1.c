@@ -1,7 +1,10 @@
 #include "question_1.h"
 
-#define size_of_welcome_prompt_message 30
 
 void Welcome_prompt(){
-    write (STDOUT_FILENO, "Welcome to my ENSEA's shell !", size_of_welcome_prompt_message);
+    write (STDOUT_FILENO, "Bienvenue dans le noyau !", size_of_the_prompt);
+}
+
+void Normal_prompt(){
+    write (STDOUT_FILENO, "ensea$ ", size_of_the_prompt);
 }
