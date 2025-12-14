@@ -8,3 +8,8 @@ Comme son nom l'indique, l'objectif de ce TP est de mettre en place un micro she
 
 Dans un permier temps, on cherchera à un mettre en place un message d'accueil lors du démarrage du shell, ensuite, on prendra en compte la commande tapée par l'utilisateur en affichant le code de retour du prompt de ce dernier ainsi que le temps d'éxecution de la commande, puis on tentera d'implémenter des commandes plus complexes notamment avce des arguments supplémentaires ou mettant en oeuvre des redirections.
 
+Première fonction :
+
+<img width="1133" height="111" alt="image" src="https://github.com/user-attachments/assets/ab3bd0ea-c710-449b-ac01-788ce1dce7cc" />
+
+
