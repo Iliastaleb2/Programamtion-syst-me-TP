@@ -20,6 +20,11 @@ D'autre part, si l'on presse juste entrée, l'erreur est gérée :
 
 <img width="1002" height="231" alt="image" src="https://github.com/user-attachments/assets/f39f2215-fac4-49ff-9f7c-26cefd88b338" />
 
+Fonction 3 (on a testé si les commandes comme ls ou pwd marche toujours, si le enter marche toujours et si le exit et le ctrl d fonctionne)
+
+<img width="1146" height="262" alt="image" src="https://github.com/user-attachments/assets/0120402b-a3dd-426e-a6cf-85052f68c770" />
+
+
 
 
 
