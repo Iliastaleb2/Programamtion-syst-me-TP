@@ -12,4 +12,9 @@ Première fonction :
 
 <img width="1133" height="111" alt="image" src="https://github.com/user-attachments/assets/ab3bd0ea-c710-449b-ac01-788ce1dce7cc" />
 
+Deuxième fonction :
+
+<img width="1017" height="245" alt="image" src="https://github.com/user-attachments/assets/c5810aed-db38-4a82-ae8c-cc26a620d18f" />
+
+
 
