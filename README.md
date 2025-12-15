@@ -28,6 +28,16 @@ Avant de poursuivre avec la question 4, on règle ce problème de commande inexi
 
 <img width="1142" height="338" alt="image" src="https://github.com/user-attachments/assets/e90165f4-9237-46ac-9295-d2392e82fef6" />
 
+Question 4, on a testé tout les cas possibles pour voir si ça fonctionne, même le kill fonctionne correctement 
+
+<img width="1073" height="236" alt="image" src="https://github.com/user-attachments/assets/f4ccf1ef-ce21-42e5-93bb-d8ce804fae43" />
+
+Voici 
+
+<img width="1467" height="372" alt="image" src="https://github.com/user-attachments/assets/ec085140-cefc-4f63-a4a8-ab6ac6fd65fc" />
+
+
+
 
 
 
