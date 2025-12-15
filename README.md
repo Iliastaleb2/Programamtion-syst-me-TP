@@ -24,6 +24,11 @@ Fonction 3 (on a testé si les commandes comme ls ou pwd marche toujours, si le 
 
 <img width="1146" height="262" alt="image" src="https://github.com/user-attachments/assets/0120402b-a3dd-426e-a6cf-85052f68c770" />
 
+Avant de poursuivre avec la question 4, on règle ce problème de commande inexistante 
+
+<img width="1142" height="338" alt="image" src="https://github.com/user-attachments/assets/e90165f4-9237-46ac-9295-d2392e82fef6" />
+
+
 
 
 
