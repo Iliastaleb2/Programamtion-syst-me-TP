@@ -5,19 +5,22 @@
 #include "question_5.h"
 #include "question_6.h"
 
-#define Size_of_command 256
+#define MAX_ARGUMENTS 10
 
 int main() {
-    char command[Size_of_command];
-    
+    char command[MAX_COMMAND_LENGTH];
+    char *arguments[MAX_ARGUMENTS];
     Welcome_prompt();
-    A_better_displayed_prompt();
 
     while (1) {
+        A_better_displayed_prompt();
         Exit_prompt_or_ctrl_d_prompt(command);
 
-        if (command[0] != '\0') {
-            Execution_time_command(command);
+        if (command[0] != '\0' && arguments[0] == NULL) {
+            Execution_of_a_simple_command(command);
+        }
+        else if (arguments[0] != NULL) {
+            Execution_of_a_command_with_arguments(command, arguments);
         }
     }
 }
