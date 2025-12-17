@@ -58,9 +58,7 @@ Voici
 
 L'objectif de cette 5ème fonction est de mesurer le temps d'exécution de la commande en utilisant clock_gettime.
 
-<img width="1337" height="188" alt="image" src="https://github.com/user-attachments/assets/4532a85a-bcd7-4d1e-ad4e-66a5722f8fd3" />
-
-(Remarque, actuellement il y a un problème avec cette fonction : dans le terminal, le "enseaSH" s'affiche deux fois successivement, pour le moment la solution n'a pas encore été trouvée...)
+<img width="1336" height="212" alt="image" src="https://github.com/user-attachments/assets/addb5d99-1763-467f-9c96-b996010c3e8d" />
 
 
 
