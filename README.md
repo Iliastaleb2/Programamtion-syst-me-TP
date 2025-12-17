@@ -58,6 +58,8 @@ Voici
 
 L'objectif de cette 5ème fonction est de mesurer le temps d'exécution de la commande en utilisant clock_gettime.
 
+Dans cette optique, on veillera à convertir correctement le temps en ms et de la même manière que la fonction précédente, on se permettra l'utilisation de snprintf.
+
 <img width="1336" height="212" alt="image" src="https://github.com/user-attachments/assets/addb5d99-1763-467f-9c96-b996010c3e8d" />
 
 # Fonction 6
