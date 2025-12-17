@@ -42,9 +42,11 @@ Lorsque j'ai fait ces quelques test, j'avais omis d'essayer mon code pour une fo
 
 <img width="1142" height="338" alt="image" src="https://github.com/user-attachments/assets/e90165f4-9237-46ac-9295-d2392e82fef6" />
 
-# Question 4
+# Fonction 4
 
 L'objectif de cette fonction est de retourner le code de retour ou du signal de la commande précédente, pour ce faire, on se permettra l'utilisation de la commande snprintf afin d'afficher le code de retour ainsi que l'utilisation du statut précédent.
+
+J'ai donc vérifié son fonctionnement pour une commande existante, une commande non existante puis pour un arrêt brutal du process avec "kill -9".
 
 <img width="1073" height="236" alt="image" src="https://github.com/user-attachments/assets/f4ccf1ef-ce21-42e5-93bb-d8ce804fae43" />
 
