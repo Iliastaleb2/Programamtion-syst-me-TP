@@ -68,6 +68,13 @@ Pour cette sixième fonction, on souhaite cette fois-ci exécuter une fonction c
 
 <img width="1172" height="407" alt="image" src="https://github.com/user-attachments/assets/db3c0349-e880-4184-ae02-94d650e69a44" />
 
+# Fonction 7
+
+Tout fonctionne correctement.
+
+<img width="1275" height="366" alt="image" src="https://github.com/user-attachments/assets/7ac40045-229f-40b8-8e46-a22c50e09692" />
+
+
 
 
 
