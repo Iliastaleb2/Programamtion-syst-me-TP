@@ -6,6 +6,8 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
+#define Open_failed_message "Open failed"
+
 
 void Managing_redirections_to_stdin_and_stdout_with_arrows(char *command, char **arguments);
 

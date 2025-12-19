@@ -2,11 +2,11 @@
 
 void Exit_prompt_or_ctrl_d_prompt(char *command) {
     // Read user input
-    ssize_t bytes_read = read(STDIN_FILENO, command, BUFFER_SIZE - 1); 
+    ssize_t bytes_read = read(STDIN_FILENO, command, BUFFER_SIZE - 1); //Buffer size minus 1 to leave space for null terminator
 
     // case of read error
     if (bytes_read < 0) {
-        perror("Read failed");
+        perror(Read_failed_message);
         exit(EXIT_FAILURE);
     } 
     else if (bytes_read == 0) { // Check for exit on Ctrl+D
@@ -24,10 +24,8 @@ void Exit_prompt_or_ctrl_d_prompt(char *command) {
         return; // Empty command, return to main loop
     }
 
-    if (strncmp(command, "exit", 4) == 0 && command[4] == '\0') {  // Check for "exit" command
+    if (strncmp(command, Exit_command, 4) == 0 && command[4] == '\0') {  // Check for "exit" command
          write(STDOUT_FILENO, EXIT_MESSAGE, EXIT_MESSAGE_LENGTH);
          exit(EXIT_SUCCESS);
     }
-    
-    // if we reach here, the command is neither empty nor "exit"
 }

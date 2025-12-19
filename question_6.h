@@ -4,7 +4,7 @@
 #include "question_5.h"
 #include <stdio.h>
 
-#define MAX_ARGUMENTS 10
+#define MAX_ARGUMENTS 10 // could be a problem if there are more than 10 arguments (but 10 is enough for our purposes...)
 
 
 void Execution_of_a_command_with_arguments(char *command, char **arguments);
